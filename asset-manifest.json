@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akshay01barve/Linkedin_clone/static/css/main.555aa02f.css",
+    "main.js": "/akshay01barve/Linkedin_clone/static/js/main.14c55b4c.js",
+    "index.html": "/akshay01barve/Linkedin_clone/index.html",
+    "main.555aa02f.css.map": "/akshay01barve/Linkedin_clone/static/css/main.555aa02f.css.map",
+    "main.14c55b4c.js.map": "/akshay01barve/Linkedin_clone/static/js/main.14c55b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.555aa02f.css",
+    "static/js/main.14c55b4c.js"
+  ]
+}
